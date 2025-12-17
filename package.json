@@ -1,0 +1,23 @@
+{
+  "name": "@ric.zer/is-razs",
+  "version": "1.0.0",
+  "description": "Is the string RAZS?",
+  "keywords": [
+    "RAZS"
+  ],
+  "homepage": "https://github.com/RAZermenoSaracho/my-first-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/RAZermenoSaracho/my-first-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAZermenoSaracho/my-first-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "RAZS",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
